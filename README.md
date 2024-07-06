@@ -45,6 +45,30 @@ Start the backend server:
         Select the extension directory.
 
 
+
+   
+    |  Browser  | <--> |  Extensions  | <--> |  Frontend |
+         
+                                                    |
+                                                    |
+                                            
+                                             |  Backend    |
+                                             |  (Node.js)  |
+                                             
+                                                    |
+                                                    |
+                                           
+                                            |   AI/ML Engine  |
+                                            |   (Python)      |
+                                           
+                                                    |
+                                                    |
+                                            
+                                            |    Database     |
+                                            |    (MongoDB)    |
+                                           
+
+
         
     
 
